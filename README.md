@@ -49,7 +49,7 @@ Advantages:
 
 Disadvantages:
 1. It does NOT free allocated memory.
-2. Once you run brainfuck code which never ends using this package, all you can do to terminate it is to kill it (Ctrl+C won't work).
+2. Once you run brainfuck code which never ends, using this package, all you can do to terminate it is to kill it (Ctrl+C won't work).
 
 #### How will you improve it in the future?
 
