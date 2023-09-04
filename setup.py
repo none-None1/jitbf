@@ -13,7 +13,7 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 3 :: Only',
         'Topic :: Software Development :: Interpreters'
-    ],python_requires='>=3',version='1.0.0',entry_points={
+    ],python_requires='>=3',version='1.0.1',entry_points={
         'console_scripts':[
             'jitbf=jitbf:_test'
         ]
