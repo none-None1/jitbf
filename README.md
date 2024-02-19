@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/jitbf)](https://pepy.tech/project/jitbf) [![Downloads](https://static.pepy.tech/badge/jitbf/month)](https://pepy.tech/project/jitbf) [![Downloads](https://static.pepy.tech/badge/jitbf/week)](https://pepy.tech/project/jitbf)
+
 ### What's this? A fast brainfuck JIT interpreter!
 
 #### How to install it?
